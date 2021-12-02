@@ -8,7 +8,7 @@ function Picture() {
         <div>
            
            <img src={fame} alt='pictor'/>
-           <div>{fame.image}</div>
+           
            
         </div>
     )
